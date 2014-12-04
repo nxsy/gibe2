@@ -1,6 +1,7 @@
 build
 activate
-.env
 .DS_Store
 *.pyc
 *.egg-info
+/.ropeproject
+/.env
